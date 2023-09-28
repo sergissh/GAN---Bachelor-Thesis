@@ -32,18 +32,18 @@ Both the FID, IS and Precision/Reacall have been calculated with 1k generated im
 <div style="display: flex; flex-direction: column">
     <div>
         <h4>DCGAN</h4>
-        <img width="350px" src="./results/DCGAN/MNIST_70000/DCGAN_MNIST70000.png"/>
-        <img width="350px" src="./results/DCGAN/CELEBA_70000/DCGAN_CELEBA70000.png"/>
+        <img width="400px" src="./results/DCGAN/MNIST_70000/DCGAN_MNIST70000.png"/>
+        <img width="400px" src="./results/DCGAN/CELEBA_70000/DCGAN_CELEBA70000.png"/>
     </div>
     <div>
         <h4>WGAN</h4>
-        <img width="350px" src="./results/WGAN/MNIST_70000/WGAN_MNIST70000.png"/>
-        <img width="350px" src="./results/WGAN/CELEBA_70000/WGAN_CELEBA70000.png"/>
+        <img width="400px" src="./results/WGAN/MNIST_70000/WGAN_MNIST70000.png"/>
+        <img width="400px" src="./results/WGAN/CELEBA_70000/WGAN_CELEBA70000.png"/>
     </div>
     <div>
         <h4>WGAN-GP</h4>
-        <img width="350px" src="./results/WGAN-GP/MNIST_70000/WGAN-GP_MNIST70000.png"/>
-        <img width="350px" src="./results/WGAN-GP/CELEBA_70000/WGAN-GPCELEBA70000.png"/>
+        <img width="400px" src="./results/WGAN-GP/MNIST_70000/WGAN-GP_MNIST70000.png"/>
+        <img width="400px" src="./results/WGAN-GP/CELEBA_70000/WGAN-GPCELEBA70000.png"/>
     </div>
 </div>
 
