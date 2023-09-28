@@ -1,7 +1,7 @@
 # Convolutional Generative Adversarial Networks 
 
 ## Bachelor's Thesis in Computer Engineering (Autonomous University of Barcelona)
-<div style="display: flex; justify-content: center; margin: 2rem 0; width= 100%">
+<div align="center">
     <img width="340px" src="./results/DCGAN/CELEBA_70000/grid_animation.gif"/>
 </div>
 This project serves as my <a href="https://ddd.uab.cat/pub/tfg/2022/tfg_1637318/Informe_Final.pdf">bachelor's thesis</a>, where I've conducted I an extensive study on <b>Generative Adversarial Networks</b> commonly referred to as GANs.
